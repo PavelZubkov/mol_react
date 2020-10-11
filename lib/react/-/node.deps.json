@@ -1,0 +1,1 @@
+{"files":["lib/LICENSE","lib/README.md","lib/react/react.meta.tree"],"mods":{},"deps_in":{"lib":{"lib/react":-9007199254740991}},"deps_out":{"lib/react":{"lib":-9007199254740991}},"sloc":{"LICENSE":17,"md":2,"tree":1},"deps":{"lib/react":{"..":-9007199254740991},"lib":{"..":-9007199254740991}}}
